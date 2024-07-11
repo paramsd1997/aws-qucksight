@@ -1,7 +1,7 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Resources:
   MyQuickSightUser:
-    Type: "AWS::QuickSight::param"
+    Type: "AWS::QuickSight::CAPABILITY_NAMED_IAM"
     Properties:
       AwsAccountId: !Ref "AWS::211125612511"
       Namespace: "default"
