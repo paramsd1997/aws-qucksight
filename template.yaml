@@ -9,5 +9,5 @@ Resources:
       IdentityType: "IAM"
       UserRole: "READER"
       IamArn: "arn:aws:iam::211125612511:role/aws_quicksight" 
-      SessionName: "MyQuickSightSession"
+      SessionName: "MyQuickSightSessions"
       UserName: "QuickSightUser"
