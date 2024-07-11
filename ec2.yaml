@@ -6,7 +6,6 @@ Resources:
       InstanceType: t2.micro
       ImageId: ami-0ad21ae1d0696ad58  # Replace with the Ubuntu AMI ID for ap-south-1
       KeyName: ins  # Replace with your SSH key pair name
-      
       Tags:
         - Key: Name
           Value: MyEC2Instance
