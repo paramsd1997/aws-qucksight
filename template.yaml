@@ -5,7 +5,7 @@ Resources:
     Properties:
       AwsAccountId: !Ref "AWS::211125612511"
       Namespace: "default"
-      Email: "parmeshwar.1@globallogic.com"
+      Email: "psaparam@gmail.com"
       IdentityType: "IAM"
       UserRole: "READER"
       IamArn: "arn:aws:iam::211125612511:role/aws_quicksight" 
